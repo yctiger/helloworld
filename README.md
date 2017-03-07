@@ -9,5 +9,5 @@ Let's see what will happen then...
 first repository
 
 There is some changes happened here, find it out!
-The client weil push, Let's see how it happen.
+The client will push, Let's see how it happen.
 >>>>>>> 3bc5c5d90598db6cab9a802033b0df021fe23071
